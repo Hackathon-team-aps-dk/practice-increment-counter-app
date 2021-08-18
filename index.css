@@ -1,0 +1,62 @@
+h1{
+    position: absolute;
+    margin-top: 10px;
+    left: 30%;
+    color: aquamarine;
+    font-family: 'munro';
+}
+
+body{
+    background-color: darkslategray;
+    font-size: larger;
+}
+
+.counter{
+    position: absolute;
+    color: cadetblue;
+    font-family: 'munro';
+    top: 150px;
+    font-size: 32px;
+    left: 40%;
+}
+
+#num{
+    position: absolute;
+    color: rgb(171, 206, 77);
+    font-family: 'munro';
+    top: 200px;
+    font-size: 32px;
+    left: 45%;
+}
+
+#btn{
+    position: absolute;
+    color: whitesmoke;
+    background-color: darkslategray;
+    font-family: 'munro';
+    top: 300px;
+    font-size: 32px;
+    left: 40%;
+    border: 0ch;
+}
+
+#btn:hover{
+    font-size: 40px;
+    color: cornflowerblue;
+}
+
+#save-btn{
+    position: absolute;
+    color: rgb(236, 204, 19);
+    background-color: darkslategray;
+    font-family: 'munro';
+    top: 400px;
+    font-size: 32px;
+    left: 40%;
+    border: 0ch;
+}
+
+#save-btn:hover{
+    font-size: 40px;
+    color: rgb(241, 127, 34);
+}
